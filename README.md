@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Diego Rodrigues 👋</h1>
 <p align="center">
-  <b>Desenvolvedor full-stack & fundador da <a href="https://idgestao.com.br">ID Tecnologia</a></b><br>
+  <b>Desenvolvedor full-stack & colaborador da <a href="https://idgestao.com.br">ID Gestão Empresarial</a></b><br>
   ERPs, PDVs e automação fiscal para o varejo brasileiro — desde 2014, direto de Natal/RN 🇧🇷
 </p>
 
